@@ -1,1 +1,17 @@
-
+<BugReport>  
+  <Summary>Axe doesn't damage the orcs</Summary>  
+  <Category>Gameplay</Category>  
+  <Severity>Critical</Severity>  
+  <Priority>High</Priority>  
+  <Steps>  
+    <Step1>Reach the second act</Step1>  
+    <Step2>Go to the_Auberdine lake</Step2>  
+    <Step3>Talk to Ricardo</Step3>  
+    <Step4>Take up an axe-type weapon</Step4>  
+    <Step5>Attack and try to damage the orc</Step5>  
+  </Steps>  
+  <Result>Orc has no damage</Result>  
+  <ExpectedResult>Orc should be damaged</ExpectedResult>  
+  <Version>3.2.4</Version>  
+  <Platform>PS5</Platform>
+</BugReport>
